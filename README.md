@@ -1,10 +1,10 @@
 # Startup_Analysis
 
-- Overview
+- Overview : 
 This repository contains analyses of startup data spanning the years 2015 to 2019. The analyses aim to provide insights into various aspects of the startup ecosystem, including funding trends, industry distributions, geographical locations, top investors, and more. Each analysis is conducted individually for each year and offers visualizations generated using Plotly and pandas. Additionally, a combined analysis is included to offer a holistic view of the trends and patterns observed across the years.
 
 - Contents
-- The repository includes the following components:
+The repository includes the following components:
 1) Individual analysis notebooks for each year (2015-2019)
 2) Combined analysis notebook
 3) Raw data files for each year
@@ -27,7 +27,8 @@ The analyses are performed using Python programming language and require the fol
 1) pandas
 2) plotly
 3) ipywidgets (for interactive widgets)
+4) Numpy & many more 
 Make sure to install these dependencies before running the analysis notebooks.
 
-Data Source
+Data Source : 
 The raw data used in the analyses is provided in excel files.
