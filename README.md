@@ -9,7 +9,7 @@ The repository includes the following components:
 2) Combined analysis notebook
 3) Raw data files for each year
 4) README.md file (you are currently reading)
-Each analysis notebook provides detailed insights into the startup ecosystem for the respective year. The notebooks include visualizations such as bar charts, line plots, pie charts, and tables to illustrate various trends and patterns.
+- Each analysis notebook provides detailed insights into the startup ecosystem for the respective year. The notebooks include visualizations such as bar charts, line plots, pie charts, and tables to illustrate various trends and patterns.
 
 - Key aspects covered in the analysis include:
 1) Number of startups each year
