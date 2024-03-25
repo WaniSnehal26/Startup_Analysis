@@ -12,8 +12,8 @@ The repository includes the following components:
 - Each analysis notebook provides detailed insights into the startup ecosystem for the respective year. The notebooks include visualizations such as bar charts, line plots, pie charts, and tables to illustrate various trends and patterns.
 
 - Key aspects covered in the analysis include:
-1) Number of startups each year
-2)Top industries and sub-industries by startup count
+1) Number of startups each year 
+2) Top industries and sub-industries by startup count
 3) Top locations by startup count and funding
 4) Top investors by investment count
 5) Distribution of investment types
